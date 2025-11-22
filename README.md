@@ -38,10 +38,6 @@ The goal of this dashboard is to:
 
 ---
 
-## 📁 Repository Structure
-
----
-
 ## 📷 Dashboard Preview
 
 ### 🔷 Overview
