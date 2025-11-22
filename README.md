@@ -40,23 +40,23 @@ The goal of this dashboard is to:
 
 ## 📷 Dashboard Preview
 
-### 🔷 Overview
-![Overview](reports/dashboard_screenshots/overview.png)
+### 🔹 Overview
+![Overview](dashboard%20screenshort/overview.png)
 
-### 👥 Employee Demographic
-![Employee Demographic](reports/dashboard_screenshots/emp_demographic.png)
+### 🔹 Employee Demographics
+![Employee Demographics](dashboard%20screenshort/emp_demographic.png)
 
-### 🏢 Department & Job Role Analysis
-![Department & Job Role](reports/dashboard_screenshots/dept_job_role.png)
+### 🔹 Department & Job Role Insights
+![Department & Job Role](dashboard%20screenshort/dept_job_role.png)
 
-### 🧭 Work Environment & Satisfaction
-![Work Environment](reports/dashboard_screenshots/work_environment.png)
+### 🔹 Work Environment & Satisfaction
+![Work Environment](dashboard%20screenshort/work_environment.png)
 
-### 📈 Attrition Drivers
-![Attrition Drivers](reports/dashboard_screenshots/attrition_drivers.png)
+### 🔹 Attrition Drivers
+![Attrition Drivers](dashboard%20screenshort/attrition_drivers.png)
 
-### 📄 Documentation
-![Documentation](reports/dashboard_screenshots/documentation.png)
+### 🔹 Documentation
+![Documentation](dashboard%20screenshort/documentation.png)
 
 ---
 
